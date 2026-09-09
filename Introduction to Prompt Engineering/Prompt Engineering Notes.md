@@ -31,7 +31,7 @@ Principles of Prompting are:
 ### Jupyter Notebook Exercises:
 - Use open AI python library in jupyter notebook to access open AI API
 - Install open AI library using command: !pip install openai
-- Run code set up in the course on jupyter notebook to test different prompt outputs/results
+- Run code set up in the course on jupyter notebook to test different prompts and analyse the different outputs/results
 
 ### Model Limitations:
 Hallucination - 
@@ -39,3 +39,23 @@ Hallucination -
 - Can try answer questions on obsure topics and make things up
 - Happens because model does not knwo boundary of the vast amount of information data received on taining
 - Method to Reduce hallucinations: Ask model to first find any relevant information on the text and use the quotes to answer the questions
+
+## Iterative:
+
+### Iterative Prompt Develoment:
+- Analyse Prompt output and identify errors or changes needed
+- Iteratively develop prompt to get better results based on application requirements
+- Developing prompts also is an iterative process as it has to be refined based on prompt guidelines for getting desired outputs.
+- Can add word limit to output
+- Can ask prompt to focus on the aspects that are relevant to the intended audience
+- Can ask the prompt to extract information and organize it in a table
+- Run code set up in the course on jupyter notebook to test the different prompts and analyse the different outputs/results
+
+## Summarizing:
+
+### Summarize text:
+- Run code set up in the course on jupyter notebook to test the different prompts and analyse the different summarized outputs/results
+- Can summarize text with a word/sentence/character limit
+- Can ask prompt to summarize text to focus on a specific purpose. eg: Summarize a product review within a given word limit to give feedback to shipping deparment and should focus on any aspects that mention shipping and delivery of the product.
+- Can extract only relevant information from text 
+- Can summarize multiple texts
