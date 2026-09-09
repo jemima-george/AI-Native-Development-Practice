@@ -1,9 +1,11 @@
 # AI-Native-Development-Practice
 
-## Introduction to Prompt Engineering:
+## Prompt Engineering:
+#### _Learning Resource:_
+_ChatGPT Prompt Engineering for Developers – DeepLearning.AI_ \
+https://www.deeplearning.ai/courses/chatgpt-prompt-eng
 
-Learning Resource: 
-ChatGPT Prompt Engineering for Developers – DeepLearning.AI (https://www.deeplearning.ai/courses/chatgpt-prompt-eng)
+## Introduction to Prompt Engineering:
 
 ### To Study:
 - Introduction
@@ -18,3 +20,13 @@ ChatGPT Prompt Engineering for Developers – DeepLearning.AI (https://www.deepl
 - Compare different prompt structures
 - Experiment with context and instructions
 
+## Improving LLM Outputs:
+
+### To Study:
+- Iterative prompt development
+- Summarizing
+
+### To Practice:
+- Create summarization prompts
+- Refine prompts based on output
+- Generate concise and structured summaries
