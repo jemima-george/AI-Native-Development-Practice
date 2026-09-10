@@ -30,3 +30,15 @@ https://www.deeplearning.ai/courses/chatgpt-prompt-eng
 - Create summarization prompts
 - Refine prompts based on output
 - Generate concise and structured summaries
+
+## Working with Information Using Prompts:
+
+### To Study:
+- Inferring
+- Transforming
+
+### To Practice:
+- Extract information from text
+- Perform classification/inference
+- Convert text into different formats
+- Generate structured responses
