@@ -59,3 +59,29 @@ Hallucination -
 - Can ask prompt to summarize text to focus on a specific purpose. eg: Summarize a product review within a given word limit to give feedback to shipping deparment and should focus on any aspects that mention shipping and delivery of the product.
 - Can extract only relevant information from text 
 - Can summarize multiple texts
+
+## Inferring:
+
+### Understanding text inference with LLMs:
+- Takes texts as input and forms an analysis eg: extracting labels, names, sentiments
+- To extract positive or negative sentiment in a text 
+- Prompt to extract sentiment in text 
+- Can get answer in a single word as either positive or negative when extracting sentiment
+- can identify the different types of emotions expressed in the text 
+- Can check if text is expressed in an angry tone
+- can infer multiple things from a text at once
+- Can infer topics discussed in a text
+- Check if text contains certain topics which can be used to make news alerts for certain topics
+
+## Transforming:
+
+### Text Transformations with LLMs:
+- transform text inputed and transforming or translating text
+- LLMs are trained with muliple sources in many languages which gives the model the ability to translate languages
+- Can also transform formats such as inputing HTML and outputting JSON
+- can help proofread texts by checking spelling and grammar of the texts
+- Can translate text from one language to another and can be used as a universal translator
+- Can identify which language the text is written in
+- can make multiple transaltions at once
+- can translate text to another language based on informal or formal tones
+- Transform tone of text. Eg: convert informal text into formal text
