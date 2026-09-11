@@ -85,3 +85,34 @@ Hallucination -
 - can make multiple transaltions at once
 - can translate text to another language based on informal or formal tones
 - Transform tone of text. Eg: convert informal text into formal text
+
+## Expanding:
+
+### Text Expansion with LLMs:
+- Exapanding is a task of taking a shorter piece of text such as set of instructions or a list of topics and using LLMs to generate a longer piece of text such as an email or an essay.
+- Can create automated replies with LLM
+- Can be useful as a brainstroming partner
+- Temparture is an input parameter of a model which allows to vary the degree of exploration or randomness or creativity in the model's response
+- For tasks that require reliability, predictability use temprature = 0 so degree of randomness or variety is not there
+- For tasks that require variety use higher temperature like 0.3
+- for tasks that reuquire alot of variety and randomness, use much higher temperatures like 0.7
+
+# Chatbot:
+
+### Understand how to build Custom Chatbots using LLMs:
+- Open AI API call can take prompt message in role of user and return back result from the LLM
+- Messages sent to LLM can have role of system, user and assistant
+- Your message to ChatGPT on the web interface are the user messages
+- ChatGPT's responses messages are the assistant messages
+- Message set in role of system helps set the behaviour and persona of the assisstant or LLM
+- Can send message in role of system as a friendly chatbot and the AI will act like that
+- Have to send all previous or relevant messages to the model as each conversation with LLM is a stand alone conversation. Must provide earlier exchanges to the model
+- Have to collect user and assitant messages to add to the context to send the model. Each converstation to the model is stored in a list of messages. Eg: messages = [system, user, assistant, user, assisstant] and will keep adding messages to the list with every next converstation
+
+### How to build OrderBot Chatbot:
+- Chatbot to take orders at a pizza restaurant
+- Have automate the collection of user prompts and system responses to build the chatbot
+- Define a helper function to collect user and system messages and store into memory
+- Define context or behaviour of the LLM using message with role of system. Here, set LLM as an automated service that collects orders for a pizza restaurant. Create with higher temperature for chatbot 
+- GUI set for user to add inputs and view responses
+- Append another system message to instruct the model to create a json summary of the order     with details on size, toppings, sides or drink and total price. Create this message with lower temperature
