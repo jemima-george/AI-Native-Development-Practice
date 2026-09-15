@@ -51,8 +51,27 @@ https://www.deeplearning.ai/courses/chatgpt-prompt-eng
 - Course conclusion
 - Quiz
 
-
 #### To Practice:
 - Build a simple chatbot
 - Experiment with system and user instructions
 - Improve conversational responses
+
+## OpenAI Python API Bootcamp:
+#### _Learning Resource:_
+_Udemy Course - OpenAI Python API Bootcamp_ \
+https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and-more/
+
+### 1. Connecting Applications with LLMs:
+
+#### To Study:
+- OpenAI API basics
+- API authentication
+- Python integration
+- Sending requests
+- Receiving and processing responses
+
+#### To Practice:
+- Configure API access securely
+- Make API calls from Python
+- Pass user input to the model
+- Display model responses
