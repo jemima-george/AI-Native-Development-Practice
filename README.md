@@ -67,6 +67,9 @@ https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and
 - OpenAI API basics
 - API authentication
 - Python integration
+- OpenAI Account Setup
+- Text Completion API – Parameter Overview
+- OpenAI API Call & Request Handling
 - Sending requests
 - Receiving and processing responses
 
@@ -75,3 +78,21 @@ https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and
 - Make API calls from Python
 - Pass user input to the model
 - Display model responses
+
+### 2. OpenAI API – Practical Integration:
+
+#### To Study:
+- Continue the relevant OpenAI API lectures
+- API request/response flow
+- Prompt construction
+- Working with model responses
+- Current OpenAI API approach
+- Basic error handling
+
+#### To Practice:
+- Create a reusable API function
+- Accept user input
+- Send input to the model
+- Process the response
+- Handle API errors
+- Keep API keys secure using environment variables
