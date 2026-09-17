@@ -96,3 +96,23 @@ https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and
 - Process the response
 - Handle API errors
 - Keep API keys secure using environment variables
+
+## Building Systems with the ChatGPT API:
+#### _Learning Resource:_
+_Building Systems with the ChatGPT API - DeepLearning.AI_ \
+https://www.deeplearning.ai/courses/chatgpt-building-system
+
+### 1. Fundamentals of Building Systems with the ChatGPT API:
+
+#### To Study:
+- Language Models
+- Chat Format
+- Tokens
+- Classification
+
+#### To Practice:
+- Work with system and user messages
+- Build a classification workflow
+- Understand token usage
+- Design structured LLM inputs and outputs
+- Compare different prompts for the same task
