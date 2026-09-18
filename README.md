@@ -116,3 +116,18 @@ https://www.deeplearning.ai/courses/chatgpt-building-system
 - Understand token usage
 - Design structured LLM inputs and outputs
 - Compare different prompts for the same task
+
+### 2. Moderation, Prompt Chaining & Output Checking
+
+#### To Study:
+- Moderation
+- Chaining Prompts
+- Check Outputs
+- Multi-step LLM workflows
+
+#### To Practice:
+- Implement a moderation workflow
+- Create a multi-step prompt chain
+- Pass the output of one step into another
+- Validate generated responses
+- Handle incorrect or unexpected outputs
