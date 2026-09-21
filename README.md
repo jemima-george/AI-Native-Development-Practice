@@ -131,3 +131,37 @@ https://www.deeplearning.ai/courses/chatgpt-building-system
 - Pass the output of one step into another
 - Validate generated responses
 - Handle incorrect or unexpected outputs
+
+### 3. LLM Evaluation
+
+#### To Study:
+- Evaluation
+- Evaluation Part I
+- Evaluation Part II
+- Course conclusion
+- Quiz
+
+## GitHub Copilot – Productivity for Developers:
+#### _Learning Resource:_
+_GitHub Copilot – Productivity for Developers_ \
+https://learn.github.com/learning-pathways/github-copilot
+https://github.com/github-samples/copilot-in-a-box
+
+### 1. GitHub Copilot:
+
+#### To Study:
+- Copilot fundamentals
+- Effective prompting
+- Code explanation
+- Code generation
+- Debugging
+- Testing
+- Code review
+
+#### To Practice:
+- Create test cases for LLM outputs
+- Compare expected and generated results
+- Use Copilot to explain existing code
+- Use Copilot to debug/refactor code
+- Generate tests with Copilot
+- Review Copilot-generated code manually
