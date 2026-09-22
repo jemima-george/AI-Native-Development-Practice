@@ -144,8 +144,13 @@ https://www.deeplearning.ai/courses/chatgpt-building-system
 ## GitHub Copilot – Productivity for Developers:
 #### _Learning Resource:_
 _GitHub Copilot – Productivity for Developers_ \
-https://learn.github.com/learning-pathways/github-copilot
-https://github.com/github-samples/copilot-in-a-box
+https://learn.github.com/learning-pathways/github-copilot, 
+
+https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/,
+
+https://github.com/github-samples/copilot-in-a-box, 
+
+https://github.com/skills/getting-started-with-github-copilot/tree/main/.github/steps
 
 ### 1. GitHub Copilot:
 
