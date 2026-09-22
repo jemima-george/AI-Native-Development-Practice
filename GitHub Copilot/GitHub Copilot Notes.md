@@ -29,3 +29,29 @@ Add features to an existing code base/app -
 - Describe new feature as a comment in new file
 - Comments to guide the copilot during the development
 
+## Code explanation:
+Explain code - 
+- Ask Copilot to explain what code is doing using /explain command
+- Helps to understand existing code
+- Can use explaination for code documentation
+- Useful to understand existing code when new people join and collaborate with an existing project to develop new features 
+- Can ask copilot to document code using /doc command which will provide summary of code in comments
+
+## Code generation:
+- Comment what the code should accomplish and specify paramerters needed to generate code 
+- Press tab to accept generated code
+- Can tune/change comment if the generated code is not what is needed
+- Copilot is trained on public repositories
+- Provide code suggesstions
+- Can ask copilot to optimize code using /optimize command
+- Can create an an Article class, DBContext class, repository interface, repository class, service interface, service class
+
+## Debugging:
+- Can ask copilot to optimize code using /optimize command
+- Can ask to convert code to add another feature. eg: Converting methods to Async methods
+- Provides imports to use in the code
+- More code optimization by add additional services or features
+- Can ask copilot to fix code errors using /fix command
+
+
+
