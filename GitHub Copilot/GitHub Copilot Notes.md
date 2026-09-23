@@ -53,5 +53,30 @@ Explain code -
 - More code optimization by add additional services or features
 - Can ask copilot to fix code errors using /fix command
 
+## Testing:
+- Can ask copilot to test code using /test command on selected method
+- save time on testing code
+- copilot understands exceptions and exception tasks which is useful for testing
 
+## Code review:
+- use the official GitHub documentation on GitHub Copilot Code Review
+- can review code and provide feedback
+- identify issues and suggest fixes
+- can customize Copilot code review by adding custom instructions to your repository which can either be repository wide or path specific
+- Use .github/copilot-instructions.md for repository-wide review guidance that should apply across the entire codebase
+- Use .github/instructions/ ** / *.instructions.md files for path-specific instructions 
+- can set up Copilot to automatically review all pull requests
+- can manually verify its suggestions
+
+Code review in the GitHub website: 
+1. create a pull request or navigate to an existing pull request
+2. Under "Reviewers" in the right sidebar, next to Copilot, click Request
+3. Copilot will review the code and labels each comment with a severity level of High, Medium, Low
+4. It provides a comment review - not a request changes review. Click Fix with copilot to fix errors found in the review
+
+Code review in the Visual Studio Code: 
+1. select the code you want to review
+2. Right-click the selected code and choose Generate Code > Review
+3. VS Code creates review comments in the Comments panel and also shows them inline in the editor
+4. If you have uncommitted changes, you can request a review in Visual Studio Code by clicking the Source Control button in the Activity Bar, hover over CHANGES and click the  Copilot Code Review - Uncommitted Changes button. Copilot will review your changes and comments will be shown inline in the files and the Problems tab.
 
