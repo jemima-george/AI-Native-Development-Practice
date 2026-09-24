@@ -190,3 +190,16 @@ https://www.deeplearning.ai/courses/langchain
 - Use output parsers
 - Build a basic LangChain workflow
 - Compare direct OpenAI API usage with LangChain
+
+### 2. Memory & Chains:
+
+#### To Study:
+- Memory
+- Chains
+- Multi-step LLM workflows
+
+#### To Practice:
+- Implement conversational memory
+- Create chains
+- Connect multiple LLM operations
+- Build a multi-step workflow
