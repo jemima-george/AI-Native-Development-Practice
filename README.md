@@ -170,3 +170,23 @@ https://github.com/skills/getting-started-with-github-copilot/tree/main/.github/
 - Use Copilot to debug/refactor code
 - Generate tests with Copilot
 - Review Copilot-generated code manually
+
+## LangChain for LLM Application Development
+#### _Learning Resource:_
+_LangChain for LLM Application Development – DeepLearning.AI_ \
+https://www.deeplearning.ai/courses/langchain
+
+### 1. LangChain Fundamentals:
+
+#### To Study:
+- Introduction
+- Models
+- Prompts
+- Output Parsers
+
+#### To Practice:
+- Connect an LLM using LangChain
+- Create prompts
+- Use output parsers
+- Build a basic LangChain workflow
+- Compare direct OpenAI API usage with LangChain
