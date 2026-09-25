@@ -203,3 +203,17 @@ https://www.deeplearning.ai/courses/langchain
 - Create chains
 - Connect multiple LLM operations
 - Build a multi-step workflow
+
+### 3. Question & Answer with LangChain
+
+#### To Study:
+- Question and Answer
+- Document/context-based Q&A
+- Providing relevant context to an LLM
+
+#### To Practice:
+- Load sample documents/data
+- Provide relevant context to the model
+- Ask questions against the supplied information
+- Test different questions
+- Improve response quality
