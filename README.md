@@ -217,3 +217,20 @@ https://www.deeplearning.ai/courses/langchain
 - Ask questions against the supplied information
 - Test different questions
 - Improve response quality
+
+### 4. Evaluation & Agents in LangChain
+
+#### To Study:
+- Evaluation
+- Agents
+- Tools
+- Agent decision-making
+- Course conclusion
+- Quiz
+
+#### To Practice:
+- Evaluate LangChain outputs
+- Experiment with tools
+- Build a basic agent
+- Understand how an agent selects an action/tool
+- Complete the course quiz
