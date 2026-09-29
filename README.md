@@ -234,3 +234,20 @@ https://www.deeplearning.ai/courses/langchain
 - Build a basic agent
 - Understand how an agent selects an action/tool
 - Complete the course quiz
+
+### 5. RAG Pipeline – Application Integration
+
+#### To Study:
+- RAG workflow
+- Documents/data
+- Retrieval
+- Context
+- LLM response generation
+
+#### To Practice:
+- Prepare application-relevant documents/data
+- Implement document retrieval
+- Pass retrieved context to the LLM
+- Generate answers using retrieved information
+- Test retrieval quality
+- Connect the workflow to the application
